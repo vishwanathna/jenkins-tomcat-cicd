@@ -53,6 +53,7 @@
     <p>Built with Maven</p>
     <p>Automated with Jenkins</p>
     <p>Deployed on Apache Tomcat</p>
+    <p>Thank You</p>
 
 </div>
 
