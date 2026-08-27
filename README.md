@@ -90,7 +90,7 @@ The application is deployed using separate AWS EC2 environments for Jenkins and 
 | Deploy to Container | Automated Tomcat deployment   |
 | Linux               | Server administration         |
 
-💡 Project Outcome
+💡 Project Outcome:
 
 This project demonstrates how a manual Java application deployment process can be converted into an automated CI/CD workflow.
 
